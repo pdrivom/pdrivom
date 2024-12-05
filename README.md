@@ -4,7 +4,7 @@
 
 One of the most effective ways for individuals and teams to align their actions and values is by crafting a **manifesto** —> a set of guiding principles that encapsulate what has driven their success or what they believe will lead them there.
 
-Here are the manifestos for the role I most valued while working on software development teams: the **Tech Lead**. These principles were compiled during a decade of my experience as a Software Engineer (leading and being led), capturing what I believe makes this role impactful and effective.
+Here is the manifesto for the role I most valued while working on software development teams: the **Tech Lead**. These principles were compiled during a decade of my experience as a Software Engineer (leading and being led), capturing what I believe makes this role impactful and effective.
 
 ## Tech Lead Manifesto: People First, Code Second
 ### **Core Principle: A Tech Lead is a Leader of People, Not Code**
